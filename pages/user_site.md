@@ -50,4 +50,4 @@ _want_ a personalized 404 page).
 
 ### Up next
 
-Now go to [making a project site](project_site.html).
+Now go to [Privacy Policy](PrivacyPolicy.html).

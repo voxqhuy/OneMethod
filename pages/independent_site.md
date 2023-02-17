@@ -61,7 +61,7 @@ edited this line a bit, here.)
 Edit the
 [lines about the site name and author](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L11-L17).
 
-    title : simple site
+    title : One Method X
     author :
       name : Karl Broman
       email : kbroman@gmail.com
@@ -129,7 +129,7 @@ free to just delete the tagline.
 
     ---
     layout: page
-    title: simple site
+    title: One Method X
     tagline: Easy websites with GitHub Pages
     ---
 
@@ -148,7 +148,7 @@ look like this:
     - [Overview](pages/overview.html)
     - [Making an independent website](pages/independent_site.html)
     - [Making a personal site](pages/user_site.html)
-    - [Making a site for a project](pages/project_site.html)
+    - [Making a site for a project](pages/PrivacyPolicy.html)
     - [Making a jekyll-free site](pages/nojekyll.html)
     - [Testing your site locally](pages/local_test.html)
     - [Resources](pages/resources.html)

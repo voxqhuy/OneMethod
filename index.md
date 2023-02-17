@@ -35,7 +35,7 @@ of a GitHub repository.
 The [GitHub](https://pages.github.com) and
 [Jekyll](https://jekyllrb.com) documentation is great, but I thought it
 would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
+get going immediately with a One Method X. To some readers, what GitHub
 has might be simpler and more direct.  But if you just want to create
 a site like the one you're looking at now, read on.
 
@@ -48,7 +48,7 @@ read any of the other things, such as
 - [Overview](pages/overview.html)
 - [Making an independent website](pages/independent_site.html)
 - [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
+- [Making a site for a project](pages/PrivacyPolicy.html)
 - [Making a jekyll-free site](pages/nojekyll.html)
 - [Testing your site locally](pages/local_test.html)
 - [Resources](pages/resources.html)
