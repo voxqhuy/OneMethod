@@ -1,7 +1,7 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
+title: One Method
+tagline: One Method official
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
