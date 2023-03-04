@@ -4,3 +4,5 @@
 website using Markdown and git.
 
 This is a minimal tutorial to get started.
+
+https://voxqhuy.github.io/OneMethod/pages/PrivacyPolicy.html
